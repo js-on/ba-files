@@ -1,0 +1,3 @@
+- [ ] Implement weights in settings.json
+- [x] Generate Report from CSV
+- [ ] Set auto width in XLSX report

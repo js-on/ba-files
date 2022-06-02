@@ -1,0 +1,124 @@
+{
+    "authenticity_check": {
+        "threshold": 1,
+        "higher": "red",
+        "lower": "green"
+    },
+    "is_from_external": {
+        "threshold": 1,
+        "higher": "red",
+        "lower": "green"
+    },
+    "is_denylisted": {
+        "threshold": 1,
+        "higher": "red",
+        "lower": "green"
+    },
+    "has_coin_addr": {
+        "threshold": 1,
+        "higher": "red",
+        "lower": "green"
+    },
+    "is_faked_sender": {
+        "threshold": 5,
+        "higher": "red",
+        "lower": "green"
+    },
+    "contains_greeting": {
+        "threshold": 5,
+        "higher": "red",
+        "lower": "green"
+    },
+    "is_unusual_subject": {
+        "threshold": 2,
+        "higher": "red",
+        "lower": "green"
+    },
+    "is_sus_date": {
+        "threshold": 1,
+        "higher": "red",
+        "lower": "green"
+    },
+    "is_domain_working": {
+        "threshold": 1,
+        "higher": "red",
+        "lower": "green"
+    },
+    "check_language_quality": {
+        "threshold": 5,
+        "higher": "red",
+        "lower": "green"
+    },
+    "get_mail_intention": {
+        "threshold": 5,
+        "higher": "red",
+        "lower": "green"
+    },
+    "is_typosquatted": {
+        "threshold": 1,
+        "higher": "red",
+        "lower": "green"
+    },
+    "short": {
+        "ac": {
+            "threshold": 1,
+            "higher": "red",
+            "lower": "green"
+        },
+        "ife": {
+            "threshold": 1,
+            "higher": "red",
+            "lower": "green"
+        },
+        "idl": {
+            "threshold": 1,
+            "higher": "red",
+            "lower": "green"
+        },
+        "hca": {
+            "threshold": 1,
+            "higher": "red",
+            "lower": "green"
+        },
+        "ifs": {
+            "threshold": 5,
+            "higher": "red",
+            "lower": "green"
+        },
+        "cg": {
+            "threshold": 5,
+            "higher": "red",
+            "lower": "green"
+        },
+        "ius": {
+            "threshold": 2,
+            "higher": "red",
+            "lower": "green"
+        },
+        "isd": {
+            "threshold": 1,
+            "higher": "red",
+            "lower": "green"
+        },
+        "idw": {
+            "threshold": 1,
+            "higher": "red",
+            "lower": "green"
+        },
+        "clq": {
+            "threshold": 5,
+            "higher": "red",
+            "lower": "green"
+        },
+        "gmi": {
+            "threshold": 5,
+            "higher": "red",
+            "lower": "green"
+        },
+        "its": {
+            "threshold": 1,
+            "higher": "red",
+            "lower": "green"
+        }
+    }
+}

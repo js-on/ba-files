@@ -1,0 +1,4449 @@
+{
+    ".aaa": {
+        "1": [
+            ".axa"
+        ]
+    },
+    ".aarp": {},
+    ".abarth": {
+        "2": [
+            ".earth"
+        ]
+    },
+    ".abb": {
+        "1": [
+            ".abc",
+            ".bb"
+        ]
+    },
+    ".abbott": {},
+    ".abbvie": {},
+    ".abc": {
+        "1": [
+            ".abb",
+            ".ac",
+            ".bbc"
+        ]
+    },
+    ".able": {},
+    ".abogado": {},
+    ".abudhabi": {},
+    ".ac": {},
+    ".academy": {},
+    ".accenture": {},
+    ".accountant": {
+        "3": [
+            ".accountants"
+        ]
+    },
+    ".accountants": {
+        "3": [
+            ".accountant"
+        ]
+    },
+    ".aco": {
+        "1": [
+            ".ac",
+            ".ao",
+            ".co",
+            ".eco"
+        ]
+    },
+    ".active": {},
+    ".actor": {},
+    ".ad": {},
+    ".adac": {},
+    ".ads": {
+        "1": [
+            ".ad",
+            ".as",
+            ".aws",
+            ".dds",
+            ".lds"
+        ]
+    },
+    ".adult": {},
+    ".ae": {},
+    ".aeg": {
+        "1": [
+            ".ae",
+            ".ag",
+            ".aig",
+            ".eg"
+        ]
+    },
+    ".aero": {
+        "1": [
+            ".zero"
+        ]
+    },
+    ".aetna": {},
+    ".af": {},
+    ".afamilycompany": {},
+    ".afl": {
+        "1": [
+            ".af",
+            ".al",
+            ".aol",
+            ".nfl"
+        ]
+    },
+    ".africa": {
+        "2": [
+            ".amica"
+        ]
+    },
+    ".ag": {},
+    ".agakhan": {},
+    ".agency": {},
+    ".ai": {},
+    ".aig": {
+        "1": [
+            ".aeg",
+            ".ag",
+            ".ai",
+            ".aigo",
+            ".vig"
+        ]
+    },
+    ".aigo": {
+        "1": [
+            ".aig"
+        ]
+    },
+    ".airbus": {},
+    ".airforce": {},
+    ".airtel": {
+        "2": [
+            ".arte",
+            ".intel"
+        ]
+    },
+    ".akdn": {},
+    ".al": {},
+    ".alfaromeo": {},
+    ".alibaba": {},
+    ".alipay": {
+        "2": [
+            ".lipsy"
+        ]
+    },
+    ".allfinanz": {},
+    ".allstate": {},
+    ".ally": {},
+    ".alsace": {
+        "2": [
+            ".place"
+        ]
+    },
+    ".alstom": {},
+    ".am": {},
+    ".amazon": {},
+    ".americanexpress": {},
+    ".americanfamily": {},
+    ".amex": {},
+    ".amfam": {},
+    ".amica": {},
+    ".amsterdam": {},
+    ".an": {},
+    ".analytics": {},
+    ".android": {},
+    ".anquan": {},
+    ".anz": {
+        "1": [
+            ".an",
+            ".az",
+            ".nz"
+        ]
+    },
+    ".ao": {},
+    ".aol": {
+        "1": [
+            ".afl",
+            ".al",
+            ".ao",
+            ".lol",
+            ".uol"
+        ]
+    },
+    ".apartments": {},
+    ".app": {},
+    ".apple": {},
+    ".aq": {},
+    ".aquarelle": {},
+    ".ar": {},
+    ".arab": {},
+    ".aramco": {},
+    ".archi": {},
+    ".army": {},
+    ".arpa": {},
+    ".art": {
+        "1": [
+            ".ar",
+            ".arte",
+            ".at",
+            ".srt"
+        ]
+    },
+    ".arte": {
+        "1": [
+            ".art"
+        ]
+    },
+    ".as": {},
+    ".asda": {
+        "1": [
+            ".asia"
+        ]
+    },
+    ".asia": {
+        "1": [
+            ".asda"
+        ]
+    },
+    ".associates": {},
+    ".at": {},
+    ".athleta": {},
+    ".attorney": {},
+    ".au": {},
+    ".auction": {},
+    ".audi": {
+        "1": [
+            ".audio"
+        ]
+    },
+    ".audible": {},
+    ".audio": {
+        "1": [
+            ".audi"
+        ]
+    },
+    ".auspost": {},
+    ".author": {
+        "2": [
+            ".actor",
+            ".auto",
+            ".autos"
+        ]
+    },
+    ".auto": {
+        "1": [
+            ".autos"
+        ]
+    },
+    ".autos": {
+        "1": [
+            ".auto"
+        ]
+    },
+    ".avianca": {},
+    ".aw": {},
+    ".aws": {
+        "1": [
+            ".ads",
+            ".as",
+            ".aw",
+            ".ws"
+        ]
+    },
+    ".ax": {},
+    ".axa": {
+        "1": [
+            ".aaa",
+            ".ax"
+        ]
+    },
+    ".az": {},
+    ".azure": {},
+    ".ba": {},
+    ".baby": {},
+    ".baidu": {},
+    ".banamex": {},
+    ".bananarepublic": {},
+    ".band": {
+        "1": [
+            ".bank",
+            ".bond",
+            ".land"
+        ]
+    },
+    ".bank": {
+        "1": [
+            ".band",
+            ".ubank"
+        ]
+    },
+    ".bar": {
+        "1": [
+            ".ar",
+            ".ba",
+            ".br",
+            ".car"
+        ]
+    },
+    ".barcelona": {},
+    ".barclaycard": {},
+    ".barclays": {},
+    ".barefoot": {},
+    ".bargains": {},
+    ".baseball": {
+        "2": [
+            ".basketball"
+        ]
+    },
+    ".basketball": {
+        "3": [
+            ".baseball"
+        ]
+    },
+    ".bauhaus": {},
+    ".bayern": {},
+    ".bb": {},
+    ".bbc": {
+        "1": [
+            ".abc",
+            ".bb",
+            ".bbt"
+        ]
+    },
+    ".bbt": {
+        "1": [
+            ".bb",
+            ".bbc",
+            ".bet",
+            ".bot",
+            ".bt"
+        ]
+    },
+    ".bbva": {},
+    ".bcg": {
+        "1": [
+            ".bcn",
+            ".bg",
+            ".cg"
+        ]
+    },
+    ".bcn": {
+        "1": [
+            ".bcg",
+            ".bn",
+            ".cn"
+        ]
+    },
+    ".bd": {},
+    ".be": {},
+    ".beats": {
+        "1": [
+            ".boats"
+        ]
+    },
+    ".beauty": {
+        "2": [
+            ".beats",
+            ".realty"
+        ]
+    },
+    ".beer": {},
+    ".bentley": {},
+    ".berlin": {},
+    ".best": {
+        "1": [
+            ".bet",
+            ".rest"
+        ]
+    },
+    ".bestbuy": {},
+    ".bet": {
+        "1": [
+            ".bbt",
+            ".be",
+            ".best",
+            ".bot",
+            ".bt",
+            ".et",
+            ".net",
+            ".pet",
+            ".vet"
+        ]
+    },
+    ".bf": {},
+    ".bg": {},
+    ".bh": {},
+    ".bharti": {},
+    ".bi": {},
+    ".bible": {},
+    ".bid": {
+        "1": [
+            ".bd",
+            ".bi",
+            ".bio",
+            ".biz",
+            ".id",
+            ".pid"
+        ]
+    },
+    ".bike": {
+        "1": [
+            ".like",
+            ".nike"
+        ]
+    },
+    ".bing": {
+        "1": [
+            ".bingo",
+            ".ing",
+            ".ping"
+        ]
+    },
+    ".bingo": {
+        "1": [
+            ".bing"
+        ]
+    },
+    ".bio": {
+        "1": [
+            ".bi",
+            ".bid",
+            ".biz",
+            ".bo",
+            ".boo",
+            ".io",
+            ".jio",
+            ".rio"
+        ]
+    },
+    ".biz": {
+        "1": [
+            ".bi",
+            ".bid",
+            ".bio",
+            ".bz",
+            ".gbiz"
+        ]
+    },
+    ".bj": {},
+    ".bl": {},
+    ".black": {},
+    ".blackfriday": {},
+    ".blanco": {
+        "2": [
+            ".black"
+        ]
+    },
+    ".blockbuster": {},
+    ".blog": {},
+    ".bloomberg": {},
+    ".blue": {},
+    ".bm": {},
+    ".bms": {
+        "1": [
+            ".bm",
+            ".bmw",
+            ".bs",
+            ".ms"
+        ]
+    },
+    ".bmw": {
+        "1": [
+            ".bm",
+            ".bms",
+            ".bw",
+            ".mw"
+        ]
+    },
+    ".bn": {},
+    ".bnl": {
+        "1": [
+            ".bl",
+            ".bn",
+            ".nl",
+            ".onl"
+        ]
+    },
+    ".bnpparibas": {},
+    ".bo": {},
+    ".boats": {
+        "1": [
+            ".beats",
+            ".boots"
+        ]
+    },
+    ".boehringer": {},
+    ".bofa": {},
+    ".bom": {
+        "1": [
+            ".bm",
+            ".bo",
+            ".boo",
+            ".bot",
+            ".box",
+            "",
+            ".mom",
+            ".om"
+        ]
+    },
+    ".bond": {
+        "1": [
+            ".band"
+        ]
+    },
+    ".boo": {
+        "1": [
+            ".bio",
+            ".bo",
+            ".bom",
+            ".book",
+            ".bot",
+            ".box",
+            ".foo",
+            ".goo",
+            ".ooo"
+        ]
+    },
+    ".book": {
+        "1": [
+            ".boo"
+        ]
+    },
+    ".booking": {
+        "2": [
+            ".cooking"
+        ]
+    },
+    ".boots": {
+        "1": [
+            ".boats"
+        ]
+    },
+    ".bosch": {},
+    ".bostik": {
+        "2": [
+            ".boston"
+        ]
+    },
+    ".boston": {
+        "2": [
+            ".bostik",
+            ".norton"
+        ]
+    },
+    ".bot": {
+        "1": [
+            ".bbt",
+            ".bet",
+            ".bo",
+            ".bom",
+            ".boo",
+            ".box",
+            ".bt",
+            ".dot",
+            ".got",
+            ".hot",
+            ".jot"
+        ]
+    },
+    ".boutique": {},
+    ".box": {
+        "1": [
+            ".bo",
+            ".bom",
+            ".boo",
+            ".bot",
+            ".fox",
+            ".xbox"
+        ]
+    },
+    ".bq": {},
+    ".br": {},
+    ".bradesco": {},
+    ".bridgestone": {},
+    ".broadway": {},
+    ".broker": {
+        "2": [
+            ".brother",
+            ".poker"
+        ]
+    },
+    ".brother": {
+        "2": [
+            ".broker",
+            ".rocher"
+        ]
+    },
+    ".brussels": {},
+    ".bs": {},
+    ".bt": {},
+    ".budapest": {},
+    ".bugatti": {},
+    ".build": {},
+    ".builders": {},
+    ".business": {},
+    ".buy": {
+        "1": [
+            ".by",
+            ".uy"
+        ]
+    },
+    ".buzz": {},
+    ".bv": {},
+    ".bw": {},
+    ".by": {},
+    ".bz": {},
+    ".bzh": {
+        "1": [
+            ".bh",
+            ".bz"
+        ]
+    },
+    ".ca": {},
+    ".cab": {
+        "1": [
+            ".ca",
+            ".cal",
+            ".cam",
+            ".car",
+            ".cat",
+            ".ceb",
+            ".nab",
+            ".tab"
+        ]
+    },
+    ".cafe": {
+        "1": [
+            ".care",
+            ".case",
+            ".safe"
+        ]
+    },
+    ".cal": {
+        "1": [
+            ".al",
+            ".ca",
+            ".cab",
+            ".call",
+            ".cam",
+            ".car",
+            ".cat",
+            ".cl",
+            ".gal"
+        ]
+    },
+    ".call": {
+        "1": [
+            ".cal"
+        ]
+    },
+    ".calvinklein": {},
+    ".cam": {
+        "1": [
+            ".am",
+            ".ca",
+            ".cab",
+            ".cal",
+            ".camp",
+            ".car",
+            ".cat",
+            ".cm",
+            ""
+        ]
+    },
+    ".camera": {
+        "2": [
+            ".lamer"
+        ]
+    },
+    ".camp": {
+        "1": [
+            ".cam"
+        ]
+    },
+    ".cancerresearch": {},
+    ".canon": {},
+    ".capetown": {},
+    ".capital": {},
+    ".capitalone": {
+        "3": [
+            ".capital"
+        ]
+    },
+    ".car": {
+        "1": [
+            ".ar",
+            ".bar",
+            ".ca",
+            ".cab",
+            ".cal",
+            ".cam",
+            ".care",
+            ".cars",
+            ".cat",
+            ".cr"
+        ]
+    },
+    ".caravan": {},
+    ".cards": {
+        "1": [
+            ".cars"
+        ]
+    },
+    ".care": {
+        "1": [
+            ".cafe",
+            ".car",
+            ".cars",
+            ".case",
+            ".cbre"
+        ]
+    },
+    ".career": {
+        "2": [
+            ".care",
+            ".careers",
+            ".cartier"
+        ]
+    },
+    ".careers": {
+        "2": [
+            ".career",
+            ".farmers"
+        ]
+    },
+    ".cars": {
+        "1": [
+            ".car",
+            ".cards",
+            ".care",
+            ".crs",
+            ".pars"
+        ]
+    },
+    ".cartier": {
+        "2": [
+            ".career"
+        ]
+    },
+    ".casa": {
+        "1": [
+            ".case",
+            ".cash"
+        ]
+    },
+    ".case": {
+        "1": [
+            ".cafe",
+            ".care",
+            ".casa",
+            ".cash",
+            ".chase"
+        ]
+    },
+    ".caseih": {
+        "2": [
+            ".case",
+            ".cash"
+        ]
+    },
+    ".cash": {
+        "1": [
+            ".casa",
+            ".case"
+        ]
+    },
+    ".casino": {
+        "2": [
+            ".latino"
+        ]
+    },
+    ".cat": {
+        "1": [
+            ".at",
+            ".ca",
+            ".cab",
+            ".cal",
+            ".cam",
+            ".car",
+            ".chat",
+            ".eat",
+            ".lat"
+        ]
+    },
+    ".catering": {},
+    ".catholic": {},
+    ".cba": {
+        "1": [
+            ".ba",
+            ".ca",
+            ".cbn",
+            ".cbs",
+            ".cfa",
+            ".cpa",
+            ".mba",
+            ".nba"
+        ]
+    },
+    ".cbn": {
+        "1": [
+            ".bn",
+            ".cba",
+            ".cbs",
+            ".cn"
+        ]
+    },
+    ".cbre": {
+        "1": [
+            ".care"
+        ]
+    },
+    ".cbs": {
+        "1": [
+            ".bs",
+            ".cba",
+            ".cbn",
+            ".crs",
+            ".sbs",
+            ".ubs"
+        ]
+    },
+    ".cc": {},
+    ".cd": {},
+    ".ceb": {
+        "1": [
+            ".cab",
+            ".ceo"
+        ]
+    },
+    ".center": {
+        "2": [
+            ".sener"
+        ]
+    },
+    ".ceo": {
+        "1": [
+            ".ceb",
+            ".co",
+            ".meo"
+        ]
+    },
+    ".cern": {},
+    ".cf": {},
+    ".cfa": {
+        "1": [
+            ".ca",
+            ".cba",
+            ".cf",
+            ".cfd",
+            ".cpa"
+        ]
+    },
+    ".cfd": {
+        "1": [
+            ".cd",
+            ".cf",
+            ".cfa"
+        ]
+    },
+    ".cg": {},
+    ".ch": {},
+    ".chanel": {
+        "2": [
+            ".channel",
+            ".chase"
+        ]
+    },
+    ".channel": {
+        "2": [
+            ".chanel"
+        ]
+    },
+    ".charity": {},
+    ".chase": {
+        "1": [
+            ".case"
+        ]
+    },
+    ".chat": {
+        "1": [
+            ".cat"
+        ]
+    },
+    ".cheap": {},
+    ".chintai": {},
+    ".chloe": {},
+    ".christmas": {},
+    ".chrome": {
+        "2": [
+            ".chloe"
+        ]
+    },
+    ".chrysler": {},
+    ".church": {},
+    ".ci": {},
+    ".cipriani": {},
+    ".circle": {},
+    ".cisco": {},
+    ".citadel": {},
+    ".citi": {
+        "1": [
+            ".citic",
+            ".city"
+        ]
+    },
+    ".citic": {
+        "1": [
+            ".citi"
+        ]
+    },
+    ".city": {
+        "1": [
+            ".citi"
+        ]
+    },
+    ".cityeats": {},
+    ".ck": {},
+    ".cl": {},
+    ".claims": {},
+    ".cleaning": {},
+    ".click": {},
+    ".clinic": {
+        "2": [
+            ".citic"
+        ]
+    },
+    ".clinique": {},
+    ".clothing": {},
+    ".cloud": {},
+    ".club": {},
+    ".clubmed": {},
+    ".cm": {},
+    ".cn": {},
+    ".co": {},
+    ".coach": {},
+    ".codes": {},
+    ".coffee": {},
+    ".college": {},
+    ".cologne": {},
+    ".com": {
+        "1": [
+            ".bom",
+            ".cam",
+            ".cm",
+            ".co",
+            ".mom",
+            ".om"
+        ]
+    },
+    ".comcast": {},
+    ".commbank": {},
+    ".community": {},
+    ".company": {
+        "2": [
+            ".compare"
+        ]
+    },
+    ".compare": {
+        "2": [
+            ".company"
+        ]
+    },
+    ".computer": {},
+    ".comsec": {},
+    ".condos": {
+        "2": [
+            ".codes",
+            ".london"
+        ]
+    },
+    ".construction": {},
+    ".consulting": {},
+    ".contact": {},
+    ".contractors": {},
+    ".cooking": {
+        "2": [
+            ".booking"
+        ]
+    },
+    ".cookingchannel": {},
+    ".cool": {
+        "1": [
+            ".coop"
+        ]
+    },
+    ".coop": {
+        "1": [
+            ".cool"
+        ]
+    },
+    ".corsica": {},
+    ".country": {},
+    ".coupon": {
+        "2": [
+            ".coupons"
+        ]
+    },
+    ".coupons": {
+        "2": [
+            ".coupon"
+        ]
+    },
+    ".courses": {
+        "2": [
+            ".cruises"
+        ]
+    },
+    ".cpa": {
+        "1": [
+            ".ca",
+            ".cba",
+            ".cfa",
+            ".pa",
+            ".spa"
+        ]
+    },
+    ".cr": {},
+    ".credit": {
+        "2": [
+            ".reit"
+        ]
+    },
+    ".creditcard": {},
+    ".creditunion": {},
+    ".cricket": {},
+    ".crown": {},
+    ".crs": {
+        "1": [
+            ".cars",
+            ".cbs",
+            ".cr",
+            ".rs"
+        ]
+    },
+    ".cruise": {
+        "2": [
+            ".cruises",
+            ".reise"
+        ]
+    },
+    ".cruises": {
+        "2": [
+            ".courses",
+            ".cruise"
+        ]
+    },
+    ".csc": {
+        "1": [
+            ".cc",
+            ".sc"
+        ]
+    },
+    ".cu": {},
+    ".cuisinella": {},
+    ".cv": {},
+    ".cw": {},
+    ".cx": {},
+    ".cy": {},
+    ".cymru": {},
+    ".cyou": {
+        "1": [
+            ".you"
+        ]
+    },
+    ".cz": {},
+    ".dabur": {},
+    ".dad": {
+        "1": [
+            ".ad",
+            ".day"
+        ]
+    },
+    ".dance": {},
+    ".data": {
+        "1": [
+            ".date"
+        ]
+    },
+    ".date": {
+        "1": [
+            ".data"
+        ]
+    },
+    ".dating": {
+        "2": [
+            ".latino",
+            ".racing",
+            ".voting"
+        ]
+    },
+    ".datsun": {},
+    ".day": {
+        "1": [
+            ".dad",
+            ".diy",
+            ".gay",
+            ".pay"
+        ]
+    },
+    ".dclk": {},
+    ".dds": {
+        "1": [
+            ".ads",
+            ".lds"
+        ]
+    },
+    ".de": {},
+    ".deal": {
+        "1": [
+            ".deals",
+            ".dell"
+        ]
+    },
+    ".dealer": {
+        "2": [
+            ".deal",
+            ".deals"
+        ]
+    },
+    ".deals": {
+        "1": [
+            ".deal"
+        ]
+    },
+    ".degree": {},
+    ".delivery": {},
+    ".dell": {
+        "1": [
+            ".deal"
+        ]
+    },
+    ".deloitte": {},
+    ".delta": {},
+    ".democrat": {},
+    ".dental": {
+        "2": [
+            ".deal",
+            ".delta",
+            ".rentals"
+        ]
+    },
+    ".dentist": {},
+    ".desi": {},
+    ".design": {
+        "2": [
+            ".desi"
+        ]
+    },
+    ".dev": {
+        "1": [
+            ".de",
+            ".dtv"
+        ]
+    },
+    ".dhl": {},
+    ".diamonds": {},
+    ".diet": {},
+    ".digital": {},
+    ".direct": {
+        "2": [
+            ".diet"
+        ]
+    },
+    ".directory": {
+        "3": [
+            ".direct"
+        ]
+    },
+    ".discount": {},
+    ".discover": {},
+    ".dish": {
+        "1": [
+            ".fish"
+        ]
+    },
+    ".diy": {
+        "1": [
+            ".day"
+        ]
+    },
+    ".dj": {},
+    ".dk": {},
+    ".dm": {},
+    ".dnp": {
+        "1": [
+            ".np"
+        ]
+    },
+    ".do": {},
+    ".docs": {},
+    ".doctor": {
+        "2": [
+            ".actor"
+        ]
+    },
+    ".dodge": {},
+    ".dog": {
+        "1": [
+            ".do",
+            ".dot"
+        ]
+    },
+    ".doha": {},
+    ".domains": {},
+    ".doosan": {},
+    ".dot": {
+        "1": [
+            ".bot",
+            ".do",
+            ".dog",
+            ".got",
+            ".hot",
+            ".jot"
+        ]
+    },
+    ".download": {},
+    ".drive": {},
+    ".dtv": {
+        "1": [
+            ".dev",
+            ".itv",
+            ".tv"
+        ]
+    },
+    ".dubai": {},
+    ".duck": {},
+    ".dunlop": {},
+    ".duns": {},
+    ".dupont": {},
+    ".durban": {
+        "2": [
+            ".dubai"
+        ]
+    },
+    ".dvag": {},
+    ".dvr": {},
+    ".dz": {},
+    ".earth": {},
+    ".eat": {
+        "1": [
+            ".at",
+            ".cat",
+            ".et",
+            ".lat",
+            ".seat"
+        ]
+    },
+    ".ec": {},
+    ".eco": {
+        "1": [
+            ".aco",
+            ".co",
+            ".ec"
+        ]
+    },
+    ".edeka": {},
+    ".edu": {
+        "1": [
+            ".eu"
+        ]
+    },
+    ".education": {
+        "3": [
+            ".auction"
+        ]
+    },
+    ".ee": {},
+    ".eg": {},
+    ".eh": {},
+    ".email": {
+        "1": [
+            ".gmail"
+        ]
+    },
+    ".emerck": {},
+    ".energy": {},
+    ".engineer": {},
+    ".engineering": {
+        "3": [
+            ".engineer"
+        ]
+    },
+    ".enterprises": {},
+    ".epost": {
+        "1": [
+            ".post"
+        ]
+    },
+    ".epson": {},
+    ".equipment": {},
+    ".er": {},
+    ".ericsson": {},
+    ".erni": {},
+    ".es": {},
+    ".esq": {
+        "1": [
+            ".es"
+        ]
+    },
+    ".estate": {},
+    ".esurance": {
+        "2": [
+            ".insurance"
+        ]
+    },
+    ".et": {},
+    ".etisalat": {},
+    ".eu": {},
+    ".eurovision": {},
+    ".eus": {
+        "1": [
+            ".es",
+            ".eu",
+            ".us"
+        ]
+    },
+    ".events": {},
+    ".everbank": {},
+    ".exchange": {},
+    ".expert": {},
+    ".exposed": {},
+    ".express": {
+        "2": [
+            ".press"
+        ]
+    },
+    ".extraspace": {},
+    ".fage": {
+        "1": [
+            ".page"
+        ]
+    },
+    ".fail": {},
+    ".fairwinds": {},
+    ".faith": {},
+    ".family": {
+        "2": [
+            ".fail"
+        ]
+    },
+    ".fan": {
+        "1": [
+            ".an",
+            ".fans",
+            ".fun",
+            ".man"
+        ]
+    },
+    ".fans": {
+        "1": [
+            ".fan"
+        ]
+    },
+    ".farm": {},
+    ".farmers": {
+        "2": [
+            ".careers"
+        ]
+    },
+    ".fashion": {},
+    ".fast": {},
+    ".fedex": {},
+    ".feedback": {},
+    ".ferrari": {
+        "2": [
+            ".ferrero"
+        ]
+    },
+    ".ferrero": {
+        "2": [
+            ".ferrari"
+        ]
+    },
+    ".fi": {},
+    ".fiat": {
+        "1": [
+            ".fit"
+        ]
+    },
+    ".fidelity": {},
+    ".fido": {},
+    ".film": {},
+    ".final": {},
+    ".finance": {},
+    ".financial": {
+        "3": [
+            ".finance",
+            ".lplfinancial"
+        ]
+    },
+    ".fire": {},
+    ".firestone": {
+        "3": [
+            ".redstone"
+        ]
+    },
+    ".firmdale": {},
+    ".fish": {
+        "1": [
+            ".dish"
+        ]
+    },
+    ".fishing": {},
+    ".fit": {
+        "1": [
+            ".fi",
+            ".fiat",
+            ".it",
+            ".mit"
+        ]
+    },
+    ".fitness": {},
+    ".fj": {},
+    ".fk": {},
+    ".flickr": {
+        "2": [
+            ".click",
+            ".flir"
+        ]
+    },
+    ".flights": {},
+    ".flir": {},
+    ".florist": {},
+    ".flowers": {},
+    ".flsmidth": {},
+    ".fly": {
+        "1": [
+            ".ly"
+        ]
+    },
+    ".fm": {},
+    ".fo": {},
+    ".foo": {
+        "1": [
+            ".boo",
+            ".fo",
+            ".food",
+            ".fox",
+            ".goo",
+            ".ooo"
+        ]
+    },
+    ".food": {
+        "1": [
+            ".foo",
+            ".ford"
+        ]
+    },
+    ".foodnetwork": {},
+    ".football": {},
+    ".ford": {
+        "1": [
+            ".food"
+        ]
+    },
+    ".forex": {},
+    ".forsale": {},
+    ".forum": {},
+    ".foundation": {},
+    ".fox": {
+        "1": [
+            ".box",
+            ".fo",
+            ".foo"
+        ]
+    },
+    ".fr": {},
+    ".free": {},
+    ".fresenius": {},
+    ".frl": {
+        "1": [
+            ".fr",
+            ".srl"
+        ]
+    },
+    ".frogans": {},
+    ".frontdoor": {
+        "3": [
+            ".frontier"
+        ]
+    },
+    ".frontier": {},
+    ".ftr": {
+        "1": [
+            ".fr",
+            ".mtr",
+            ".tr"
+        ]
+    },
+    ".fujitsu": {},
+    ".fujixerox": {},
+    ".fun": {
+        "1": [
+            ".fan",
+            ".fund",
+            ".run",
+            ".yun"
+        ]
+    },
+    ".fund": {
+        "1": [
+            ".fun"
+        ]
+    },
+    ".furniture": {},
+    ".futbol": {},
+    ".fyi": {
+        "1": [
+            ".fi"
+        ]
+    },
+    ".ga": {},
+    ".gal": {
+        "1": [
+            ".al",
+            ".cal",
+            ".ga",
+            ".gap",
+            ".gay",
+            ".gl"
+        ]
+    },
+    ".gallery": {},
+    ".gallo": {},
+    ".gallup": {
+        "2": [
+            ".gallo"
+        ]
+    },
+    ".game": {
+        "1": [
+            ".games",
+            ".name"
+        ]
+    },
+    ".games": {
+        "1": [
+            ".game"
+        ]
+    },
+    ".gap": {
+        "1": [
+            ".ga",
+            ".gal",
+            ".gay",
+            ".gop",
+            ".gp",
+            ".map",
+            ".sap"
+        ]
+    },
+    ".garden": {
+        "2": [
+            ".green"
+        ]
+    },
+    ".gay": {
+        "1": [
+            ".day",
+            ".ga",
+            ".gal",
+            ".gap",
+            ".gy",
+            ".pay"
+        ]
+    },
+    ".gb": {},
+    ".gbiz": {
+        "1": [
+            ".biz"
+        ]
+    },
+    ".gd": {},
+    ".gdn": {
+        "1": [
+            ".gd",
+            ".gn"
+        ]
+    },
+    ".ge": {},
+    ".gea": {
+        "1": [
+            ".ga",
+            ".ge"
+        ]
+    },
+    ".gent": {
+        "1": [
+            ".rent"
+        ]
+    },
+    ".genting": {},
+    ".george": {},
+    ".gf": {},
+    ".gg": {},
+    ".ggee": {},
+    ".gh": {},
+    ".gi": {},
+    ".gift": {
+        "1": [
+            ".gifts"
+        ]
+    },
+    ".gifts": {
+        "1": [
+            ".gift"
+        ]
+    },
+    ".gives": {},
+    ".giving": {
+        "2": [
+            ".living",
+            ".viking"
+        ]
+    },
+    ".gl": {},
+    ".glade": {},
+    ".glass": {},
+    ".gle": {
+        "1": [
+            ".ge",
+            ".gl"
+        ]
+    },
+    ".global": {
+        "2": [
+            ".globo"
+        ]
+    },
+    ".globo": {},
+    ".gm": {},
+    ".gmail": {
+        "1": [
+            ".email"
+        ]
+    },
+    ".gmbh": {},
+    ".gmo": {
+        "1": [
+            ".gm",
+            ".gmx",
+            ".goo",
+            ".mo"
+        ]
+    },
+    ".gmx": {
+        "1": [
+            ".gm",
+            ".gmo",
+            ".mx"
+        ]
+    },
+    ".gn": {},
+    ".godaddy": {},
+    ".gold": {
+        "1": [
+            ".golf"
+        ]
+    },
+    ".goldpoint": {},
+    ".golf": {
+        "1": [
+            ".gold"
+        ]
+    },
+    ".goo": {
+        "1": [
+            ".boo",
+            ".foo",
+            ".gmo",
+            ".goog",
+            ".gop",
+            ".got",
+            ".gov",
+            ".ooo"
+        ]
+    },
+    ".goodhands": {},
+    ".goodyear": {},
+    ".goog": {
+        "1": [
+            ".goo"
+        ]
+    },
+    ".google": {
+        "2": [
+            ".goog"
+        ]
+    },
+    ".gop": {
+        "1": [
+            ".gap",
+            ".goo",
+            ".got",
+            ".gov",
+            ".gp",
+            ".top"
+        ]
+    },
+    ".got": {
+        "1": [
+            ".bot",
+            ".dot",
+            ".goo",
+            ".gop",
+            ".gov",
+            ".gt",
+            ".hot",
+            ".jot"
+        ]
+    },
+    ".gov": {
+        "1": [
+            ".goo",
+            ".gop",
+            ".got",
+            ".mov"
+        ]
+    },
+    ".gp": {},
+    ".gq": {},
+    ".gr": {},
+    ".grainger": {},
+    ".graphics": {},
+    ".gratis": {},
+    ".green": {},
+    ".gripe": {},
+    ".grocery": {},
+    ".group": {},
+    ".gs": {},
+    ".gt": {},
+    ".gu": {},
+    ".guardian": {},
+    ".gucci": {},
+    ".guge": {},
+    ".guide": {},
+    ".guitars": {},
+    ".guru": {},
+    ".gw": {},
+    ".gy": {},
+    ".hair": {},
+    ".hamburg": {},
+    ".hangout": {},
+    ".haus": {},
+    ".hbo": {
+        "1": [
+            ".bo"
+        ]
+    },
+    ".hdfc": {},
+    ".hdfcbank": {},
+    ".health": {
+        "2": [
+            ".earth",
+            ".realty"
+        ]
+    },
+    ".healthcare": {},
+    ".help": {},
+    ".helsinki": {},
+    ".here": {},
+    ".hermes": {
+        "2": [
+            ".here",
+            ".homes"
+        ]
+    },
+    ".hgtv": {},
+    ".hiphop": {},
+    ".hisamitsu": {},
+    ".hitachi": {},
+    ".hiv": {},
+    ".hk": {},
+    ".hkt": {
+        "1": [
+            ".hk",
+            ".hot",
+            ".ht"
+        ]
+    },
+    ".hm": {},
+    ".hn": {},
+    ".hockey": {
+        "2": [
+            ".locker"
+        ]
+    },
+    ".holdings": {},
+    ".holiday": {},
+    ".homedepot": {},
+    ".homegoods": {},
+    ".homes": {},
+    ".homesense": {},
+    ".honda": {},
+    ".honeywell": {},
+    ".horse": {
+        "1": [
+            ".house"
+        ]
+    },
+    ".hospital": {},
+    ".host": {
+        "1": [
+            ".hot",
+            ".post"
+        ]
+    },
+    ".hosting": {
+        "2": [
+            ".voting"
+        ]
+    },
+    ".hot": {
+        "1": [
+            ".bot",
+            ".dot",
+            ".got",
+            ".hkt",
+            ".host",
+            ".how",
+            ".ht",
+            ".jot"
+        ]
+    },
+    ".hoteles": {
+        "2": [
+            ".hotels"
+        ]
+    },
+    ".hotels": {
+        "2": [
+            ".homes",
+            ".hoteles"
+        ]
+    },
+    ".hotmail": {},
+    ".house": {
+        "1": [
+            ".horse"
+        ]
+    },
+    ".how": {
+        "1": [
+            ".hot",
+            ".now",
+            ".show",
+            ".wow"
+        ]
+    },
+    ".hr": {},
+    ".hsbc": {},
+    ".ht": {},
+    ".htc": {
+        "1": [
+            ".ht",
+            ".stc",
+            ".tc",
+            ".wtc"
+        ]
+    },
+    ".hu": {},
+    ".hughes": {},
+    ".hyatt": {},
+    ".hyundai": {},
+    ".ibm": {
+        "1": [
+            ".bm",
+            ".ifm",
+            ".im"
+        ]
+    },
+    ".icbc": {},
+    ".ice": {
+        "1": [
+            ".icu",
+            ".ie"
+        ]
+    },
+    ".icu": {
+        "1": [
+            ".cu",
+            ".ice"
+        ]
+    },
+    ".id": {},
+    ".ie": {},
+    ".ieee": {},
+    ".ifm": {
+        "1": [
+            ".fm",
+            ".ibm",
+            ".im"
+        ]
+    },
+    ".iinet": {},
+    ".ikano": {},
+    ".il": {},
+    ".im": {},
+    ".imamat": {},
+    ".imdb": {},
+    ".immo": {},
+    ".immobilien": {},
+    ".in": {},
+    ".inc": {
+        "1": [
+            ".in",
+            ".ing",
+            ".ink",
+            ".int",
+            ".iwc",
+            ".nc",
+            ".pnc"
+        ]
+    },
+    ".industries": {},
+    ".infiniti": {},
+    ".info": {},
+    ".ing": {
+        "1": [
+            ".bing",
+            ".in",
+            ".inc",
+            ".ink",
+            ".int",
+            ".ng",
+            ".ong",
+            ".ping"
+        ]
+    },
+    ".ink": {
+        "1": [
+            ".in",
+            ".inc",
+            ".ing",
+            ".int",
+            ".link",
+            ".pink"
+        ]
+    },
+    ".institute": {},
+    ".insurance": {
+        "3": [
+            ".esurance",
+            ".insure"
+        ]
+    },
+    ".insure": {},
+    ".int": {
+        "1": [
+            ".in",
+            ".inc",
+            ".ing",
+            ".ink",
+            ".ist",
+            ".it",
+            ".mint"
+        ]
+    },
+    ".intel": {},
+    ".international": {},
+    ".intuit": {},
+    ".investments": {},
+    ".io": {},
+    ".ipiranga": {},
+    ".iq": {},
+    ".ir": {},
+    ".irish": {},
+    ".is": {},
+    ".iselect": {
+        "2": [
+            ".select"
+        ]
+    },
+    ".ismaili": {},
+    ".ist": {
+        "1": [
+            ".int",
+            ".is",
+            ".it",
+            ".st"
+        ]
+    },
+    ".istanbul": {},
+    ".it": {},
+    ".itau": {},
+    ".itv": {
+        "1": [
+            ".dtv",
+            ".it",
+            ".tv"
+        ]
+    },
+    ".iveco": {},
+    ".iwc": {
+        "1": [
+            ".inc",
+            ".pwc"
+        ]
+    },
+    ".jaguar": {},
+    ".java": {},
+    ".jcb": {
+        "1": [
+            ".jcp",
+            ".scb"
+        ]
+    },
+    ".jcp": {
+        "1": [
+            ".jcb",
+            ".jmp",
+            ".jp"
+        ]
+    },
+    ".je": {},
+    ".jeep": {},
+    ".jetzt": {},
+    ".jewelry": {},
+    ".jio": {
+        "1": [
+            ".bio",
+            ".io",
+            ".jo",
+            ".rio"
+        ]
+    },
+    ".jlc": {
+        "1": [
+            ".jll",
+            ".lc",
+            ".llc"
+        ]
+    },
+    ".jll": {
+        "1": [
+            ".jlc"
+        ]
+    },
+    ".jm": {},
+    ".jmp": {
+        "1": [
+            ".jcp",
+            ".jm",
+            ".jp",
+            ".mp"
+        ]
+    },
+    ".jnj": {},
+    ".jo": {},
+    ".jobs": {},
+    ".joburg": {},
+    ".jot": {
+        "1": [
+            ".bot",
+            ".dot",
+            ".got",
+            ".hot",
+            ".jo",
+            ".joy"
+        ]
+    },
+    ".joy": {
+        "1": [
+            ".jo",
+            ".jot",
+            ".soy"
+        ]
+    },
+    ".jp": {},
+    ".jpmorgan": {},
+    ".jprs": {},
+    ".juegos": {
+        "2": [
+            ".vuelos"
+        ]
+    },
+    ".juniper": {},
+    ".kaufen": {},
+    ".kddi": {},
+    ".ke": {},
+    ".kerryhotels": {},
+    ".kerrylogistics": {},
+    ".kerryproperties": {},
+    ".kfh": {
+        "1": [
+            ".kh"
+        ]
+    },
+    ".kg": {},
+    ".kh": {},
+    ".ki": {},
+    ".kia": {
+        "1": [
+            ".ki",
+            ".kim"
+        ]
+    },
+    ".kids": {},
+    ".kim": {
+        "1": [
+            ".im",
+            ".ki",
+            ".kia",
+            ".km"
+        ]
+    },
+    ".kinder": {
+        "2": [
+            ".kindle",
+            ".linde"
+        ]
+    },
+    ".kindle": {
+        "2": [
+            ".kinder",
+            ".linde"
+        ]
+    },
+    ".kitchen": {},
+    ".kiwi": {},
+    ".km": {},
+    ".kn": {},
+    ".koeln": {},
+    ".komatsu": {},
+    ".kosher": {
+        "2": [
+            ".rocher"
+        ]
+    },
+    ".kp": {},
+    ".kpmg": {},
+    ".kpn": {
+        "1": [
+            ".kn",
+            ".kp",
+            ".pn"
+        ]
+    },
+    ".kr": {},
+    ".krd": {
+        "1": [
+            ".kr",
+            ".kred"
+        ]
+    },
+    ".kred": {
+        "1": [
+            ".krd",
+            ".red"
+        ]
+    },
+    ".kuokgroup": {},
+    ".kw": {},
+    ".ky": {},
+    ".kyoto": {},
+    ".kz": {},
+    ".la": {},
+    ".lacaixa": {},
+    ".ladbrokes": {},
+    ".lamborghini": {},
+    ".lamer": {},
+    ".lancaster": {},
+    ".lancia": {},
+    ".lancome": {},
+    ".land": {
+        "1": [
+            ".band"
+        ]
+    },
+    ".landrover": {},
+    ".lanxess": {},
+    ".lasalle": {},
+    ".lat": {
+        "1": [
+            ".at",
+            ".cat",
+            ".eat",
+            ".la",
+            ".law",
+            ".lt"
+        ]
+    },
+    ".latino": {
+        "2": [
+            ".casino",
+            ".dating"
+        ]
+    },
+    ".latrobe": {},
+    ".law": {
+        "1": [
+            ".aw",
+            ".la",
+            ".lat"
+        ]
+    },
+    ".lawyer": {
+        "2": [
+            ".lamer"
+        ]
+    },
+    ".lb": {},
+    ".lc": {},
+    ".lds": {
+        "1": [
+            ".ads",
+            ".dds",
+            ".ls"
+        ]
+    },
+    ".lease": {},
+    ".leclerc": {},
+    ".lefrak": {},
+    ".legal": {},
+    ".lego": {},
+    ".lexus": {
+        "1": [
+            ".nexus"
+        ]
+    },
+    ".lgbt": {},
+    ".li": {},
+    ".liaison": {
+        "2": [
+            ".maison"
+        ]
+    },
+    ".lidl": {},
+    ".life": {
+        "1": [
+            ".like",
+            ".live"
+        ]
+    },
+    ".lifeinsurance": {
+        "4": [
+            ".insurance"
+        ]
+    },
+    ".lifestyle": {},
+    ".lighting": {},
+    ".like": {
+        "1": [
+            ".bike",
+            ".life",
+            ".live",
+            ".nike"
+        ]
+    },
+    ".lilly": {},
+    ".limited": {},
+    ".limo": {},
+    ".lincoln": {},
+    ".linde": {},
+    ".link": {
+        "1": [
+            ".ink",
+            ".pink"
+        ]
+    },
+    ".lipsy": {},
+    ".live": {
+        "1": [
+            ".life",
+            ".like",
+            ".love"
+        ]
+    },
+    ".living": {
+        "2": [
+            ".giving",
+            ".viking"
+        ]
+    },
+    ".lixil": {},
+    ".lk": {},
+    ".llc": {
+        "1": [
+            ".jlc",
+            ".lc",
+            ".llp"
+        ]
+    },
+    ".llp": {
+        "1": [
+            ".llc"
+        ]
+    },
+    ".loan": {
+        "1": [
+            ".loans"
+        ]
+    },
+    ".loans": {
+        "1": [
+            ".loan"
+        ]
+    },
+    ".locker": {
+        "2": [
+            ".hockey",
+            ".poker",
+            ".rocher",
+            ".soccer"
+        ]
+    },
+    ".locus": {},
+    ".loft": {},
+    ".lol": {
+        "1": [
+            ".aol",
+            ".lpl",
+            ".uol"
+        ]
+    },
+    ".london": {
+        "2": [
+            ".condos"
+        ]
+    },
+    ".lotte": {
+        "1": [
+            ".lotto"
+        ]
+    },
+    ".lotto": {
+        "1": [
+            ".lotte"
+        ]
+    },
+    ".love": {
+        "1": [
+            ".live"
+        ]
+    },
+    ".lpl": {
+        "1": [
+            ".lol",
+            ".pl"
+        ]
+    },
+    ".lplfinancial": {
+        "3": [
+            ".financial"
+        ]
+    },
+    ".lr": {},
+    ".ls": {},
+    ".lt": {},
+    ".ltd": {
+        "1": [
+            ".lt",
+            ".ltda",
+            ".td"
+        ]
+    },
+    ".ltda": {
+        "1": [
+            ".ltd"
+        ]
+    },
+    ".lu": {},
+    ".lundbeck": {},
+    ".lupin": {},
+    ".luxe": {},
+    ".luxury": {},
+    ".lv": {},
+    ".ly": {},
+    ".ma": {},
+    ".macys": {},
+    ".madrid": {},
+    ".maif": {},
+    ".maison": {
+        "2": [
+            ".liaison"
+        ]
+    },
+    ".makeup": {},
+    ".man": {
+        "1": [
+            ".an",
+            ".fan",
+            ".ma",
+            ".map",
+            ".men",
+            ".mn",
+            ".mtn"
+        ]
+    },
+    ".management": {},
+    ".mango": {},
+    ".map": {
+        "1": [
+            ".gap",
+            ".ma",
+            ".man",
+            ".mp",
+            ".sap"
+        ]
+    },
+    ".market": {
+        "2": [
+            ".markets",
+            ".target"
+        ]
+    },
+    ".marketing": {
+        "3": [
+            ".market",
+            ".markets"
+        ]
+    },
+    ".markets": {
+        "2": [
+            ".market"
+        ]
+    },
+    ".marriott": {},
+    ".marshalls": {},
+    ".maserati": {},
+    ".mattel": {},
+    ".mba": {
+        "1": [
+            ".ba",
+            ".cba",
+            ".ma",
+            ".mma",
+            ".nba"
+        ]
+    },
+    ".mc": {},
+    ".mcd": {
+        "1": [
+            ".cd",
+            ".mc",
+            ".md",
+            ".med",
+            ".msd"
+        ]
+    },
+    ".mcdonalds": {},
+    ".mckinsey": {},
+    ".md": {},
+    ".me": {},
+    ".med": {
+        "1": [
+            ".mcd",
+            ".md",
+            ".me",
+            ".men",
+            ".meo",
+            ".msd",
+            ".red",
+            ".wed"
+        ]
+    },
+    ".media": {},
+    ".meet": {},
+    ".melbourne": {},
+    ".meme": {},
+    ".memorial": {},
+    ".men": {
+        "1": [
+            ".man",
+            ".me",
+            ".med",
+            ".menu",
+            ".meo",
+            ".mn",
+            ".mtn",
+            ".ren"
+        ]
+    },
+    ".menu": {
+        "1": [
+            ".men"
+        ]
+    },
+    ".meo": {
+        "1": [
+            ".ceo",
+            ".me",
+            ".med",
+            ".men",
+            ".mo"
+        ]
+    },
+    ".merckmsd": {},
+    ".metlife": {},
+    ".mf": {},
+    ".mg": {},
+    ".mh": {},
+    ".miami": {},
+    ".microsoft": {},
+    ".mil": {
+        "1": [
+            ".il",
+            ".mit",
+            ".ml",
+            ".ril"
+        ]
+    },
+    ".mini": {
+        "1": [
+            ".mint"
+        ]
+    },
+    ".mint": {
+        "1": [
+            ".int",
+            ".mini",
+            ".mit"
+        ]
+    },
+    ".mit": {
+        "1": [
+            ".fit",
+            ".it",
+            ".mil",
+            ".mint",
+            ".mt",
+            ".rmit"
+        ]
+    },
+    ".mitsubishi": {},
+    ".mk": {},
+    ".ml": {},
+    ".mlb": {
+        "1": [
+            ".lb",
+            ".ml",
+            ".mls"
+        ]
+    },
+    ".mls": {
+        "1": [
+            ".ls",
+            ".ml",
+            ".mlb",
+            ".ms"
+        ]
+    },
+    ".mm": {},
+    ".mma": {
+        "1": [
+            ".ma",
+            ".mba",
+            ".mm"
+        ]
+    },
+    ".mn": {},
+    ".mo": {},
+    ".mobi": {
+        "1": [
+            ".moi",
+            ".obi"
+        ]
+    },
+    ".mobile": {
+        "2": [
+            ".mobi",
+            ".mobily",
+            ".movie"
+        ]
+    },
+    ".mobily": {
+        "2": [
+            ".mobi",
+            ".mobile"
+        ]
+    },
+    ".moda": {},
+    ".moe": {
+        "1": [
+            ".me",
+            ".mo",
+            ".moi",
+            ".mom",
+            ".mov"
+        ]
+    },
+    ".moi": {
+        "1": [
+            ".mo",
+            ".mobi",
+            ".moe",
+            ".mom",
+            ".mov"
+        ]
+    },
+    ".mom": {
+        "1": [
+            ".bom",
+            ".com",
+            ".mm",
+            ".mo",
+            ".moe",
+            ".moi",
+            ".mov",
+            ".om"
+        ]
+    },
+    ".monash": {},
+    ".money": {},
+    ".monster": {},
+    ".montblanc": {},
+    ".mopar": {},
+    ".mormon": {
+        "2": [
+            ".norton"
+        ]
+    },
+    ".mortgage": {},
+    ".moscow": {},
+    ".moto": {
+        "1": [
+            ".voto"
+        ]
+    },
+    ".motorcycles": {},
+    ".mov": {
+        "1": [
+            ".gov",
+            ".mo",
+            ".moe",
+            ".moi",
+            ".mom",
+            ".mv"
+        ]
+    },
+    ".movie": {},
+    ".movistar": {},
+    ".mp": {},
+    ".mq": {},
+    ".mr": {},
+    ".ms": {},
+    ".msd": {
+        "1": [
+            ".mcd",
+            ".md",
+            ".med",
+            ".ms",
+            ".sd"
+        ]
+    },
+    ".mt": {},
+    ".mtn": {
+        "1": [
+            ".man",
+            ".men",
+            ".mn",
+            ".mt",
+            ".mtr",
+            ".tn"
+        ]
+    },
+    ".mtpc": {},
+    ".mtr": {
+        "1": [
+            ".ftr",
+            ".mr",
+            ".mt",
+            ".mtn",
+            ".tr"
+        ]
+    },
+    ".mu": {},
+    ".museum": {},
+    ".music": {},
+    ".mutual": {},
+    ".mutuelle": {},
+    ".mv": {},
+    ".mw": {},
+    ".mx": {},
+    ".my": {},
+    ".mz": {},
+    ".na": {},
+    ".nab": {
+        "1": [
+            ".cab",
+            ".na",
+            ".tab"
+        ]
+    },
+    ".nadex": {},
+    ".nagoya": {},
+    ".name": {
+        "1": [
+            ".game"
+        ]
+    },
+    ".nationwide": {},
+    ".natura": {
+        "2": [
+            ".sakura"
+        ]
+    },
+    ".navy": {},
+    ".nba": {
+        "1": [
+            ".ba",
+            ".cba",
+            ".mba",
+            ".na",
+            ".nra"
+        ]
+    },
+    ".nc": {},
+    ".ne": {},
+    ".nec": {
+        "1": [
+            ".ec",
+            ".nc",
+            ".ne",
+            ".net",
+            ".new",
+            ".nyc"
+        ]
+    },
+    ".net": {
+        "1": [
+            ".bet",
+            ".et",
+            ".ne",
+            ".nec",
+            ".new",
+            ".next",
+            ".ntt",
+            ".pet",
+            ".vet"
+        ]
+    },
+    ".netbank": {},
+    ".netflix": {},
+    ".network": {},
+    ".neustar": {},
+    ".new": {
+        "1": [
+            ".ne",
+            ".nec",
+            ".net",
+            ".news",
+            ".now",
+            ".nrw",
+            ".sew"
+        ]
+    },
+    ".newholland": {},
+    ".news": {
+        "1": [
+            ".new"
+        ]
+    },
+    ".next": {
+        "1": [
+            ".net"
+        ]
+    },
+    ".nextdirect": {},
+    ".nexus": {
+        "1": [
+            ".lexus"
+        ]
+    },
+    ".nf": {},
+    ".nfl": {
+        "1": [
+            ".afl",
+            ".nf",
+            ".nl"
+        ]
+    },
+    ".ng": {},
+    ".ngo": {
+        "1": [
+            ".ng",
+            ".no"
+        ]
+    },
+    ".nhk": {
+        "1": [
+            ".hk"
+        ]
+    },
+    ".ni": {},
+    ".nico": {},
+    ".nike": {
+        "1": [
+            ".bike",
+            ".like"
+        ]
+    },
+    ".nikon": {},
+    ".ninja": {},
+    ".nissan": {
+        "2": [
+            ".nissay"
+        ]
+    },
+    ".nissay": {
+        "2": [
+            ".nissan"
+        ]
+    },
+    ".nl": {},
+    ".no": {},
+    ".nokia": {},
+    ".northwesternmutual": {},
+    ".norton": {
+        "2": [
+            ".boston",
+            ".mormon"
+        ]
+    },
+    ".now": {
+        "1": [
+            ".how",
+            ".new",
+            ".no",
+            ".nrw",
+            ".wow"
+        ]
+    },
+    ".nowruz": {},
+    ".nowtv": {},
+    ".np": {},
+    ".nr": {},
+    ".nra": {
+        "1": [
+            ".na",
+            ".nba",
+            ".nr",
+            ".nrw"
+        ]
+    },
+    ".nrw": {
+        "1": [
+            ".new",
+            ".now",
+            ".nr",
+            ".nra",
+            ".rw"
+        ]
+    },
+    ".ntt": {
+        "1": [
+            ".net",
+            ".ott",
+            ".tt"
+        ]
+    },
+    ".nu": {},
+    ".nyc": {
+        "1": [
+            ".nc",
+            ".nec"
+        ]
+    },
+    ".nz": {},
+    ".obi": {
+        "1": [
+            ".bi",
+            ".mobi",
+            ".sbi"
+        ]
+    },
+    ".observer": {},
+    ".off": {},
+    ".office": {},
+    ".okinawa": {},
+    ".olayan": {},
+    ".olayangroup": {},
+    ".oldnavy": {},
+    ".ollo": {},
+    ".om": {},
+    ".omega": {},
+    ".one": {
+        "1": [
+            ".ne",
+            ".ong",
+            ".onl",
+            ".zone"
+        ]
+    },
+    ".ong": {
+        "1": [
+            ".ing",
+            ".ng",
+            ".one",
+            ".onl",
+            ".org",
+            ".song"
+        ]
+    },
+    ".onl": {
+        "1": [
+            ".bnl",
+            ".nl",
+            ".one",
+            ".ong"
+        ]
+    },
+    ".online": {},
+    ".onyourside": {},
+    ".ooo": {
+        "1": [
+            ".boo",
+            ".foo",
+            ".goo"
+        ]
+    },
+    ".open": {},
+    ".oracle": {
+        "2": [
+            ".orange"
+        ]
+    },
+    ".orange": {
+        "2": [
+            ".oracle"
+        ]
+    },
+    ".org": {
+        "1": [
+            ".ong"
+        ]
+    },
+    ".organic": {},
+    ".orientexpress": {},
+    ".origins": {},
+    ".osaka": {},
+    ".otsuka": {
+        "2": [
+            ".osaka"
+        ]
+    },
+    ".ott": {
+        "1": [
+            ".ntt",
+            ".tt"
+        ]
+    },
+    ".ovh": {},
+    ".pa": {},
+    ".page": {
+        "1": [
+            ".fage"
+        ]
+    },
+    ".pamperedchef": {},
+    ".panasonic": {},
+    ".panerai": {},
+    ".paris": {
+        "1": [
+            ".pars",
+            ".parts"
+        ]
+    },
+    ".pars": {
+        "1": [
+            ".cars",
+            ".paris",
+            ".parts"
+        ]
+    },
+    ".partners": {},
+    ".parts": {
+        "1": [
+            ".paris",
+            ".pars",
+            ".party"
+        ]
+    },
+    ".party": {
+        "1": [
+            ".parts"
+        ]
+    },
+    ".passagens": {},
+    ".pay": {
+        "1": [
+            ".day",
+            ".gay",
+            ".pa",
+            ".play",
+            ".py"
+        ]
+    },
+    ".pccw": {},
+    ".pe": {},
+    ".pet": {
+        "1": [
+            ".bet",
+            ".et",
+            ".net",
+            ".pe",
+            ".pt",
+            ".vet"
+        ]
+    },
+    ".pf": {},
+    ".pfizer": {},
+    ".pg": {},
+    ".ph": {},
+    ".pharmacy": {},
+    ".phd": {
+        "1": [
+            ".ph",
+            ".pid",
+            ".thd"
+        ]
+    },
+    ".philips": {},
+    ".phone": {},
+    ".photo": {
+        "1": [
+            ".photos"
+        ]
+    },
+    ".photography": {},
+    ".photos": {
+        "2": [
+            ".photo"
+        ]
+    },
+    ".physio": {},
+    ".piaget": {
+        "2": [
+            ".page",
+            ".pictet"
+        ]
+    },
+    ".pics": {},
+    ".pictet": {
+        "2": [
+            ".piaget"
+        ]
+    },
+    ".pictures": {},
+    ".pid": {
+        "1": [
+            ".bid",
+            ".id",
+            ".phd",
+            ".pin"
+        ]
+    },
+    ".pin": {
+        "1": [
+            ".in",
+            ".pid",
+            ".ping",
+            ".pink",
+            ".pn",
+            ".vin",
+            ".win",
+            ".xin"
+        ]
+    },
+    ".ping": {
+        "1": [
+            ".bing",
+            ".ing",
+            ".pin",
+            ".pink"
+        ]
+    },
+    ".pink": {
+        "1": [
+            ".ink",
+            ".link",
+            ".pin",
+            ".ping"
+        ]
+    },
+    ".pioneer": {},
+    ".pizza": {},
+    ".pk": {},
+    ".pl": {},
+    ".place": {},
+    ".play": {
+        "1": [
+            ".pay"
+        ]
+    },
+    ".playstation": {},
+    ".plumbing": {},
+    ".plus": {},
+    ".pm": {},
+    ".pn": {},
+    ".pnc": {
+        "1": [
+            ".inc",
+            ".nc",
+            ".pn",
+            ".pwc"
+        ]
+    },
+    ".pohl": {},
+    ".poker": {},
+    ".politie": {},
+    ".porn": {},
+    ".post": {
+        "1": [
+            ".epost",
+            ".host"
+        ]
+    },
+    ".pr": {},
+    ".pramerica": {},
+    ".praxi": {},
+    ".press": {},
+    ".prime": {},
+    ".pro": {
+        "1": [
+            ".pr",
+            ".prod",
+            ".prof",
+            ".pru",
+            ".ro"
+        ]
+    },
+    ".prod": {
+        "1": [
+            ".pro",
+            ".prof"
+        ]
+    },
+    ".productions": {
+        "3": [
+            ".protection"
+        ]
+    },
+    ".prof": {
+        "1": [
+            ".pro",
+            ".prod"
+        ]
+    },
+    ".progressive": {},
+    ".promo": {},
+    ".properties": {
+        "3": [
+            ".property"
+        ]
+    },
+    ".property": {},
+    ".protection": {
+        "3": [
+            ".productions"
+        ]
+    },
+    ".pru": {
+        "1": [
+            ".pr",
+            ".pro",
+            ".ru"
+        ]
+    },
+    ".prudential": {},
+    ".ps": {},
+    ".pt": {},
+    ".pub": {},
+    ".pw": {},
+    ".pwc": {
+        "1": [
+            ".iwc",
+            ".pnc",
+            ".pw"
+        ]
+    },
+    ".py": {},
+    ".qa": {},
+    ".qpon": {},
+    ".quebec": {},
+    ".quest": {},
+    ".qvc": {
+        "1": [
+            ".vc"
+        ]
+    },
+    ".racing": {
+        "2": [
+            ".dating",
+            ".trading"
+        ]
+    },
+    ".radio": {},
+    ".raid": {},
+    ".re": {},
+    ".read": {
+        "1": [
+            ".red"
+        ]
+    },
+    ".realestate": {
+        "3": [
+            ".allstate"
+        ]
+    },
+    ".realtor": {
+        "2": [
+            ".realty"
+        ]
+    },
+    ".realty": {
+        "2": [
+            ".beauty",
+            ".health",
+            ".realtor"
+        ]
+    },
+    ".recipes": {},
+    ".red": {
+        "1": [
+            ".kred",
+            ".med",
+            ".re",
+            ".read",
+            ".ren",
+            ".wed"
+        ]
+    },
+    ".redstone": {},
+    ".redumbrella": {},
+    ".rehab": {},
+    ".reise": {
+        "1": [
+            ".reisen"
+        ]
+    },
+    ".reisen": {
+        "2": [
+            ".reise"
+        ]
+    },
+    ".reit": {
+        "1": [
+            ".rent",
+            ".rest",
+            ".rmit"
+        ]
+    },
+    ".reliance": {},
+    ".ren": {
+        "1": [
+            ".men",
+            ".re",
+            ".red",
+            ".rent",
+            ".run"
+        ]
+    },
+    ".rent": {
+        "1": [
+            ".gent",
+            ".reit",
+            ".ren",
+            ".rest"
+        ]
+    },
+    ".rentals": {
+        "2": [
+            ".dental"
+        ]
+    },
+    ".repair": {},
+    ".report": {
+        "2": [
+            ".epost",
+            ".sport"
+        ]
+    },
+    ".republican": {},
+    ".rest": {
+        "1": [
+            ".best",
+            ".reit",
+            ".rent"
+        ]
+    },
+    ".restaurant": {},
+    ".review": {
+        "2": [
+            ".reviews"
+        ]
+    },
+    ".reviews": {
+        "2": [
+            ".review"
+        ]
+    },
+    ".rexroth": {},
+    ".rich": {
+        "1": [
+            ".ricoh"
+        ]
+    },
+    ".richardli": {},
+    ".ricoh": {
+        "1": [
+            ".rich"
+        ]
+    },
+    ".rightathome": {},
+    ".ril": {
+        "1": [
+            ".il",
+            ".mil",
+            ".rio",
+            ".rip"
+        ]
+    },
+    ".rio": {
+        "1": [
+            ".bio",
+            ".io",
+            ".jio",
+            ".ril",
+            ".rip",
+            ".ro"
+        ]
+    },
+    ".rip": {
+        "1": [
+            ".ril",
+            ".rio",
+            ".vip",
+            ".zip"
+        ]
+    },
+    ".rmit": {
+        "1": [
+            ".mit",
+            ".reit"
+        ]
+    },
+    ".ro": {},
+    ".rocher": {
+        "2": [
+            ".brother",
+            ".kosher",
+            ".locker",
+            ".soccer"
+        ]
+    },
+    ".rocks": {},
+    ".rodeo": {},
+    ".rogers": {},
+    ".room": {},
+    ".rs": {},
+    ".rsvp": {},
+    ".ru": {},
+    ".rugby": {},
+    ".ruhr": {},
+    ".run": {
+        "1": [
+            ".fun",
+            ".ren",
+            ".ru",
+            ".yun"
+        ]
+    },
+    ".rw": {},
+    ".rwe": {
+        "1": [
+            ".re",
+            ".rw"
+        ]
+    },
+    ".ryukyu": {},
+    ".sa": {},
+    ".saarland": {},
+    ".safe": {
+        "1": [
+            ".cafe",
+            ".sale",
+            ".save"
+        ]
+    },
+    ".safety": {
+        "2": [
+            ".safe"
+        ]
+    },
+    ".sakura": {
+        "2": [
+            ".natura"
+        ]
+    },
+    ".sale": {
+        "1": [
+            ".safe",
+            ".save"
+        ]
+    },
+    ".salon": {},
+    ".samsclub": {},
+    ".samsung": {},
+    ".sandvik": {},
+    ".sandvikcoromant": {},
+    ".sanofi": {},
+    ".sap": {
+        "1": [
+            ".gap",
+            ".map",
+            ".sa",
+            ".sapo",
+            ".sas"
+        ]
+    },
+    ".sapo": {
+        "1": [
+            ".sap",
+            ".saxo"
+        ]
+    },
+    ".sarl": {
+        "1": [
+            ".srl"
+        ]
+    },
+    ".sas": {
+        "1": [
+            ".as",
+            ".sa",
+            ".sap",
+            ".sbs",
+            ".ses",
+            ".ss"
+        ]
+    },
+    ".save": {
+        "1": [
+            ".safe",
+            ".sale"
+        ]
+    },
+    ".saxo": {
+        "1": [
+            ".sapo"
+        ]
+    },
+    ".sb": {},
+    ".sbi": {
+        "1": [
+            ".bi",
+            ".obi",
+            ".sb",
+            ".sbs",
+            ".si",
+            ".ski"
+        ]
+    },
+    ".sbs": {
+        "1": [
+            ".bs",
+            ".cbs",
+            ".sas",
+            ".sb",
+            ".sbi",
+            ".ses",
+            ".ss",
+            ".ubs"
+        ]
+    },
+    ".sc": {},
+    ".sca": {
+        "1": [
+            ".ca",
+            ".sa",
+            ".sc",
+            ".scb",
+            ".spa"
+        ]
+    },
+    ".scb": {
+        "1": [
+            ".jcb",
+            ".sb",
+            ".sc",
+            ".sca"
+        ]
+    },
+    ".schaeffler": {},
+    ".schmidt": {},
+    ".scholarships": {},
+    ".school": {
+        "2": [
+            ".cool"
+        ]
+    },
+    ".schule": {},
+    ".schwarz": {},
+    ".science": {},
+    ".scjohnson": {},
+    ".scor": {
+        "1": [
+            ".scot"
+        ]
+    },
+    ".scot": {
+        "1": [
+            ".scor",
+            ".spot"
+        ]
+    },
+    ".sd": {},
+    ".se": {},
+    ".search": {
+        "2": [
+            ".earth",
+            ".swatch"
+        ]
+    },
+    ".seat": {
+        "1": [
+            ".eat"
+        ]
+    },
+    ".secure": {},
+    ".security": {},
+    ".seek": {},
+    ".select": {
+        "2": [
+            ".iselect"
+        ]
+    },
+    ".sener": {},
+    ".services": {},
+    ".ses": {
+        "1": [
+            ".es",
+            ".sas",
+            ".sbs",
+            ".se",
+            ".sew",
+            ".sex",
+            ".ss"
+        ]
+    },
+    ".seven": {},
+    ".sew": {
+        "1": [
+            ".new",
+            ".se",
+            ".ses",
+            ".sex"
+        ]
+    },
+    ".sex": {
+        "1": [
+            ".se",
+            ".ses",
+            ".sew",
+            ".sexy",
+            ".sx"
+        ]
+    },
+    ".sexy": {
+        "1": [
+            ".sex"
+        ]
+    },
+    ".sfr": {
+        "1": [
+            ".fr",
+            ".sr"
+        ]
+    },
+    ".sg": {},
+    ".sh": {},
+    ".shangrila": {},
+    ".sharp": {},
+    ".shaw": {
+        "1": [
+            ".show"
+        ]
+    },
+    ".shell": {},
+    ".shia": {},
+    ".shiksha": {},
+    ".shoes": {},
+    ".shop": {
+        "1": [
+            ".show"
+        ]
+    },
+    ".shopping": {},
+    ".shouji": {},
+    ".show": {
+        "1": [
+            ".how",
+            ".shaw",
+            ".shop"
+        ]
+    },
+    ".showtime": {},
+    ".shriram": {},
+    ".si": {},
+    ".silk": {},
+    ".sina": {},
+    ".singles": {},
+    ".site": {},
+    ".sj": {},
+    ".sk": {},
+    ".ski": {
+        "1": [
+            ".ki",
+            ".sbi",
+            ".si",
+            ".sk",
+            ".skin",
+            ".sky"
+        ]
+    },
+    ".skin": {
+        "1": [
+            ".ski"
+        ]
+    },
+    ".sky": {
+        "1": [
+            ".ky",
+            ".sk",
+            ".ski",
+            ".soy",
+            ".sy"
+        ]
+    },
+    ".skype": {},
+    ".sl": {},
+    ".sling": {},
+    ".sm": {},
+    ".smart": {},
+    ".smile": {},
+    ".sn": {},
+    ".sncf": {},
+    ".so": {},
+    ".soccer": {
+        "2": [
+            ".locker",
+            ".rocher"
+        ]
+    },
+    ".social": {},
+    ".softbank": {},
+    ".software": {},
+    ".sohu": {},
+    ".solar": {},
+    ".solutions": {},
+    ".song": {
+        "1": [
+            ".ong",
+            ".sony"
+        ]
+    },
+    ".sony": {
+        "1": [
+            ".song",
+            ".soy"
+        ]
+    },
+    ".soy": {
+        "1": [
+            ".joy",
+            ".sky",
+            ".so",
+            ".sony",
+            ".sy"
+        ]
+    },
+    ".spa": {
+        "1": [
+            ".cpa",
+            ".pa",
+            ".sa",
+            ".sca"
+        ]
+    },
+    ".space": {},
+    ".spiegel": {},
+    ".sport": {
+        "1": [
+            ".spot"
+        ]
+    },
+    ".spot": {
+        "1": [
+            ".scot",
+            ".sport"
+        ]
+    },
+    ".spreadbetting": {},
+    ".sr": {},
+    ".srl": {
+        "1": [
+            ".frl",
+            ".sarl",
+            ".sl",
+            ".sr",
+            ".srt"
+        ]
+    },
+    ".srt": {
+        "1": [
+            ".art",
+            ".sr",
+            ".srl",
+            ".st"
+        ]
+    },
+    ".ss": {},
+    ".st": {},
+    ".stada": {},
+    ".staples": {},
+    ".star": {},
+    ".starhub": {},
+    ".statebank": {
+        "3": [
+            ".softbank",
+            ".statefarm"
+        ]
+    },
+    ".statefarm": {
+        "3": [
+            ".statebank"
+        ]
+    },
+    ".statoil": {},
+    ".stc": {
+        "1": [
+            ".htc",
+            ".sc",
+            ".st",
+            ".tc",
+            ".wtc"
+        ]
+    },
+    ".stcgroup": {},
+    ".stockholm": {},
+    ".storage": {
+        "2": [
+            ".store"
+        ]
+    },
+    ".store": {},
+    ".stream": {
+        "2": [
+            ".team"
+        ]
+    },
+    ".studio": {
+        "2": [
+            ".audio",
+            ".study"
+        ]
+    },
+    ".study": {},
+    ".style": {},
+    ".su": {},
+    ".sucks": {},
+    ".supplies": {},
+    ".supply": {},
+    ".support": {
+        "2": [
+            ".sport"
+        ]
+    },
+    ".surf": {},
+    ".surgery": {},
+    ".suzuki": {},
+    ".sv": {},
+    ".swatch": {
+        "2": [
+            ".search",
+            ".watch"
+        ]
+    },
+    ".swiftcover": {},
+    ".swiss": {},
+    ".sx": {},
+    ".sy": {},
+    ".sydney": {},
+    ".symantec": {},
+    ".systems": {},
+    ".sz": {},
+    ".tab": {
+        "1": [
+            ".cab",
+            ".nab",
+            ".tax"
+        ]
+    },
+    ".taipei": {},
+    ".talk": {},
+    ".taobao": {},
+    ".target": {
+        "2": [
+            ".market"
+        ]
+    },
+    ".tatamotors": {},
+    ".tatar": {},
+    ".tattoo": {},
+    ".tax": {
+        "1": [
+            ".ax",
+            ".tab",
+            ".taxi",
+            ".tjx"
+        ]
+    },
+    ".taxi": {
+        "1": [
+            ".tax"
+        ]
+    },
+    ".tc": {},
+    ".tci": {
+        "1": [
+            ".ci",
+            ".tc",
+            ".tui"
+        ]
+    },
+    ".td": {},
+    ".tdk": {
+        "1": [
+            ".dk",
+            ".td",
+            ".tk"
+        ]
+    },
+    ".team": {},
+    ".tech": {},
+    ".technology": {},
+    ".tel": {
+        "1": [
+            ".tl"
+        ]
+    },
+    ".telecity": {},
+    ".telefonica": {},
+    ".temasek": {},
+    ".tennis": {},
+    ".teva": {},
+    ".tf": {},
+    ".tg": {},
+    ".th": {},
+    ".thd": {
+        "1": [
+            ".phd",
+            ".td",
+            ".th"
+        ]
+    },
+    ".theater": {
+        "2": [
+            ".theatre"
+        ]
+    },
+    ".theatre": {
+        "2": [
+            ".theater"
+        ]
+    },
+    ".tiaa": {},
+    ".tickets": {},
+    ".tienda": {},
+    ".tiffany": {},
+    ".tips": {},
+    ".tires": {},
+    ".tirol": {},
+    ".tj": {},
+    ".tjmaxx": {
+        "2": [
+            ".tkmaxx"
+        ]
+    },
+    ".tjx": {
+        "1": [
+            ".tax",
+            ".tj"
+        ]
+    },
+    ".tk": {},
+    ".tkmaxx": {
+        "2": [
+            ".tjmaxx"
+        ]
+    },
+    ".tl": {},
+    ".tm": {},
+    ".tmall": {},
+    ".tn": {},
+    ".to": {},
+    ".today": {
+        "1": [
+            ".toray"
+        ]
+    },
+    ".tokyo": {},
+    ".tools": {},
+    ".top": {
+        "1": [
+            ".gop",
+            ".to",
+            ".tp"
+        ]
+    },
+    ".toray": {
+        "1": [
+            ".today"
+        ]
+    },
+    ".toshiba": {},
+    ".total": {},
+    ".tours": {},
+    ".town": {},
+    ".toyota": {},
+    ".toys": {},
+    ".tp": {},
+    ".tr": {},
+    ".trade": {},
+    ".trading": {
+        "2": [
+            ".racing",
+            ".training"
+        ]
+    },
+    ".training": {
+        "2": [
+            ".trading"
+        ]
+    },
+    ".travel": {
+        "2": [
+            ".trade"
+        ]
+    },
+    ".travelchannel": {},
+    ".travelers": {
+        "3": [
+            ".travel"
+        ]
+    },
+    ".travelersinsurance": {},
+    ".trust": {},
+    ".trv": {
+        "1": [
+            ".tr",
+            ".tv"
+        ]
+    },
+    ".tt": {},
+    ".tube": {},
+    ".tui": {
+        "1": [
+            ".tci"
+        ]
+    },
+    ".tunes": {},
+    ".tushu": {},
+    ".tv": {},
+    ".tvs": {
+        "1": [
+            ".tv"
+        ]
+    },
+    ".tw": {},
+    ".tz": {},
+    ".ua": {},
+    ".ubank": {
+        "1": [
+            ".bank"
+        ]
+    },
+    ".ubs": {
+        "1": [
+            ".bs",
+            ".cbs",
+            ".sbs",
+            ".ups",
+            ".us"
+        ]
+    },
+    ".uconnect": {},
+    ".ug": {},
+    ".uk": {},
+    ".um": {},
+    ".unicom": {
+        "2": [
+            ".nico"
+        ]
+    },
+    ".university": {},
+    ".uno": {
+        "1": [
+            ".no"
+        ]
+    },
+    ".uol": {
+        "1": [
+            ".aol",
+            ".lol"
+        ]
+    },
+    ".ups": {
+        "1": [
+            ".ps",
+            ".ubs",
+            ".us"
+        ]
+    },
+    ".us": {},
+    ".uy": {},
+    ".uz": {},
+    ".va": {},
+    ".vacations": {},
+    ".vana": {},
+    ".vanguard": {},
+    ".vc": {},
+    ".ve": {},
+    ".vegas": {},
+    ".ventures": {},
+    ".verisign": {},
+    ".versicherung": {},
+    ".vet": {
+        "1": [
+            ".bet",
+            ".et",
+            ".net",
+            ".pet",
+            ".ve"
+        ]
+    },
+    ".vg": {},
+    ".vi": {},
+    ".viajes": {},
+    ".video": {},
+    ".vig": {
+        "1": [
+            ".aig",
+            ".vg",
+            ".vi",
+            ".vin",
+            ".vip"
+        ]
+    },
+    ".viking": {
+        "2": [
+            ".giving",
+            ".living",
+            ".voting"
+        ]
+    },
+    ".villas": {},
+    ".vin": {
+        "1": [
+            ".in",
+            ".pin",
+            ".vi",
+            ".vig",
+            ".vip",
+            ".vn",
+            ".win",
+            ".xin"
+        ]
+    },
+    ".vip": {
+        "1": [
+            ".rip",
+            ".vi",
+            ".vig",
+            ".vin",
+            ".zip"
+        ]
+    },
+    ".virgin": {},
+    ".visa": {
+        "1": [
+            ".vista",
+            ".viva"
+        ]
+    },
+    ".vision": {},
+    ".vista": {
+        "1": [
+            ".visa"
+        ]
+    },
+    ".vistaprint": {},
+    ".viva": {
+        "1": [
+            ".visa",
+            ".vivo"
+        ]
+    },
+    ".vivo": {
+        "1": [
+            ".viva"
+        ]
+    },
+    ".vlaanderen": {},
+    ".vn": {},
+    ".vodka": {},
+    ".volkswagen": {},
+    ".volvo": {},
+    ".vote": {
+        "1": [
+            ".voto"
+        ]
+    },
+    ".voting": {
+        "2": [
+            ".dating",
+            ".hosting",
+            ".viking"
+        ]
+    },
+    ".voto": {
+        "1": [
+            ".moto",
+            ".vote"
+        ]
+    },
+    ".voyage": {},
+    ".vu": {},
+    ".vuelos": {
+        "2": [
+            ".juegos"
+        ]
+    },
+    ".wales": {},
+    ".walmart": {},
+    ".walter": {
+        "2": [
+            ".wales"
+        ]
+    },
+    ".wang": {},
+    ".wanggou": {},
+    ".warman": {},
+    ".watch": {
+        "1": [
+            ".swatch"
+        ]
+    },
+    ".watches": {
+        "2": [
+            ".watch"
+        ]
+    },
+    ".weather": {},
+    ".weatherchannel": {},
+    ".webcam": {},
+    ".weber": {},
+    ".website": {},
+    ".wed": {
+        "1": [
+            ".med",
+            ".red"
+        ]
+    },
+    ".wedding": {},
+    ".weibo": {},
+    ".weir": {},
+    ".wf": {},
+    ".whoswho": {},
+    ".wien": {
+        "1": [
+            ".win"
+        ]
+    },
+    ".wiki": {},
+    ".williamhill": {},
+    ".win": {
+        "1": [
+            ".in",
+            ".pin",
+            ".vin",
+            ".wien",
+            ".wine",
+            ".xin"
+        ]
+    },
+    ".windows": {},
+    ".wine": {
+        "1": [
+            ".win"
+        ]
+    },
+    ".winners": {},
+    ".wme": {
+        "1": [
+            ".me"
+        ]
+    },
+    ".wolterskluwer": {},
+    ".woodside": {},
+    ".work": {
+        "1": [
+            ".works"
+        ]
+    },
+    ".works": {
+        "1": [
+            ".work"
+        ]
+    },
+    ".world": {},
+    ".wow": {
+        "1": [
+            ".how",
+            ".now"
+        ]
+    },
+    ".ws": {},
+    ".wtc": {
+        "1": [
+            ".htc",
+            ".stc",
+            ".tc",
+            ".wtf"
+        ]
+    },
+    ".wtf": {
+        "1": [
+            ".tf",
+            ".wf",
+            ".wtc"
+        ]
+    },
+    ".xbox": {
+        "1": [
+            ".box"
+        ]
+    },
+    ".xerox": {},
+    ".xfinity": {},
+    ".xihuan": {},
+    ".xin": {
+        "1": [
+            ".in",
+            ".pin",
+            ".vin",
+            ".win"
+        ]
+    },
+    ".\u6d4b\u8bd5": {},
+    ".\u0915\u0949\u092e": {},
+    ".\u092a\u0930\u0940\u0915\u094d\u0937\u093e": {},
+    ".\u30bb\u30fc\u30eb": {},
+    ".\u4f5b\u5c71": {},
+    ".\u0cad\u0cbe\u0cb0\u0ca4": {},
+    ".\u6148\u5584": {},
+    ".\u96c6\u56e2": {},
+    ".\u5728\u7ebf": {},
+    ".\ud55c\uad6d": {},
+    ".\u0b2d\u0b3e\u0b30\u0b24": {},
+    ".\u5927\u4f17\u6c7d\u8f66": {},
+    ".\u70b9\u770b": {},
+    ".\u0e04\u0e2d\u0e21": {},
+    ".\u09ad\u09be\u09f0\u09a4": {
+        "1": [
+            ".\u09ad\u09be\u09b0\u09a4"
+        ]
+    },
+    ".\u09ad\u09be\u09b0\u09a4": {
+        "1": [
+            ".\u09ad\u09be\u09f0\u09a4"
+        ]
+    },
+    ".\u516b\u5366": {},
+    ".\u09ac\u09be\u0982\u09b2\u09be": {},
+    ".\u516c\u76ca": {},
+    ".\u516c\u53f8": {},
+    ".\u9999\u683c\u91cc\u62c9": {},
+    ".\u7f51\u7ad9": {},
+    ".\u79fb\u52a8": {},
+    ".\u6211\u7231\u4f60": {},
+    ".\u043c\u043e\u0441\u043a\u0432\u0430": {},
+    ".\u0438\u0441\u043f\u044b\u0442\u0430\u043d\u0438\u0435": {},
+    ".\u049b\u0430\u0437": {},
+    ".\u043a\u0430\u0442\u043e\u043b\u0438\u043a": {},
+    ".\u043e\u043d\u043b\u0430\u0439\u043d": {},
+    ".\u0441\u0430\u0439\u0442": {},
+    ".\u8054\u901a": {},
+    ".\u0441\u0440\u0431": {},
+    ".\u0431\u0433": {},
+    ".\u0431\u0435\u043b": {},
+    ".\u65f6\u5c1a": {},
+    ".\u5fae\u535a": {},
+    ".\ud14c\uc2a4\ud2b8": {},
+    ".\u6de1\u9a6c\u9521": {},
+    ".\u30d5\u30a1\u30c3\u30b7\u30e7\u30f3": {},
+    ".\u043e\u0440\u0433": {},
+    ".\u0928\u0947\u091f": {},
+    ".\u30b9\u30c8\u30a2": {},
+    ".\u30a2\u30de\u30be\u30f3": {},
+    ".\uc0bc\uc131": {},
+    ".\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd": {},
+    ".\u5546\u6807": {},
+    ".\u5546\u5e97": {},
+    ".\u5546\u57ce": {},
+    ".\u0434\u0435\u0442\u0438": {},
+    ".\u043c\u043a\u0434": {},
+    ".\u0435\u044e": {},
+    ".\u30dd\u30a4\u30f3\u30c8": {},
+    ".\u65b0\u95fb": {},
+    ".\u5de5\u884c": {},
+    ".\u5bb6\u96fb": {},
+    ".\u4e2d\u6587\u7f51": {},
+    ".\u4e2d\u4fe1": {},
+    ".\u4e2d\u56fd": {},
+    ".\u4e2d\u570b": {},
+    ".\u5a31\u4e50": {},
+    ".\u8c37\u6b4c": {},
+    ".\u0c2d\u0c3e\u0c30\u0c24\u0c4d": {},
+    ".\u0dbd\u0d82\u0d9a\u0dcf": {},
+    ".\u96fb\u8a0a\u76c8\u79d1": {},
+    ".\u8d2d\u7269": {},
+    ".\u6e2c\u8a66": {},
+    ".\u30af\u30e9\u30a6\u30c9": {},
+    ".\u0aad\u0abe\u0ab0\u0aa4": {},
+    ".\u901a\u8ca9": {},
+    ".\u092d\u093e\u0930\u0924\u092e\u094d": {
+        "2": [
+            ".\u092d\u093e\u0930\u0924"
+        ]
+    },
+    ".\u092d\u093e\u0930\u0924": {
+        "1": [
+            ".\u092d\u093e\u0930\u094b\u0924"
+        ]
+    },
+    ".\u092d\u093e\u0930\u094b\u0924": {
+        "1": [
+            ".\u092d\u093e\u0930\u0924"
+        ]
+    },
+    ".\u0baa\u0bb0\u0bbf\u0b9f\u0bcd\u0b9a\u0bc8": {},
+    ".\u7f51\u5e97": {},
+    ".\u0938\u0902\u0917\u0920\u0928": {},
+    ".\u9910\u5385": {},
+    ".\u7f51\u7edc": {},
+    ".\u043a\u043e\u043c": {},
+    ".\u0443\u043a\u0440": {},
+    ".\u9999\u6e2f": {},
+    ".\u4e9a\u9a6c\u900a": {},
+    ".\u8bfa\u57fa\u4e9a": {},
+    ".\u98df\u54c1": {},
+    ".\u03b4\u03bf\u03ba\u03b9\u03bc\u03ae": {},
+    ".\u98de\u5229\u6d66": {},
+    ".\u53f0\u6e7e": {},
+    ".\u53f0\u7063": {},
+    ".\u624b\u8868": {},
+    ".\u624b\u673a": {},
+    ".\u043c\u043e\u043d": {},
+    ".\u6fb3\u9580": {},
+    ".\ub2f7\ucef4": {},
+    ".\u653f\u5e9c": {},
+    ".\u10d2\u10d4": {},
+    ".\u673a\u6784": {},
+    ".\u7ec4\u7ec7\u673a\u6784": {},
+    ".\u5065\u5eb7": {},
+    ".\u0e44\u0e17\u0e22": {},
+    ".\u62db\u8058": {},
+    ".\u0440\u0443\u0441": {},
+    ".\u0440\u0444": {},
+    ".\u73e0\u5b9d": {},
+    ".\u5927\u62ff": {},
+    ".\u0ea5\u0eb2\u0ea7": {},
+    ".\u307f\u3093\u306a": {},
+    ".\u30b0\u30fc\u30b0\u30eb": {},
+    ".\u03b5\u03c5": {},
+    ".\u03b5\u03bb": {},
+    ".\u4e16\u754c": {},
+    ".\u66f8\u7c4d": {},
+    ".\u0d2d\u0d3e\u0d30\u0d24\u0d02": {},
+    ".\u0a2d\u0a3e\u0a30\u0a24": {},
+    ".\u7f51\u5740": {},
+    ".\ub2f7\ub137": {},
+    ".\u30b3\u30e0": {},
+    ".\u5929\u4e3b\u6559": {},
+    ".\u6e38\u620f": {},
+    ".verm\u00f6gensberater": {
+        "5": [
+            ".verm\u00f6gensberatung"
+        ]
+    },
+    ".verm\u00f6gensberatung": {
+        "5": [
+            ".verm\u00f6gensberater"
+        ]
+    },
+    ".\u4f01\u4e1a": {},
+    ".\u4fe1\u606f": {},
+    ".\u5609\u91cc\u5927\u9152\u5e97": {},
+    ".\u5609\u91cc": {},
+    ".\u5e7f\u4e1c": {},
+    ".\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8": {},
+    ".\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe": {},
+    ".\u0570\u0561\u0575": {},
+    ".\u65b0\u52a0\u5761": {},
+    ".\u30c6\u30b9\u30c8": {},
+    ".\u653f\u52a1": {},
+    ".xperia": {},
+    ".xxx": {},
+    ".xyz": {},
+    ".yachts": {},
+    ".yahoo": {},
+    ".yamaxun": {},
+    ".yandex": {
+        "2": [
+            ".nadex"
+        ]
+    },
+    ".ye": {},
+    ".yodobashi": {},
+    ".yoga": {},
+    ".yokohama": {},
+    ".you": {
+        "1": [
+            ".cyou"
+        ]
+    },
+    ".youtube": {},
+    ".yt": {},
+    ".yun": {
+        "1": [
+            ".fun",
+            ".run"
+        ]
+    },
+    ".za": {},
+    ".zappos": {
+        "2": [
+            ".zippo"
+        ]
+    },
+    ".zara": {},
+    ".zero": {
+        "1": [
+            ".aero"
+        ]
+    },
+    ".zip": {
+        "1": [
+            ".rip",
+            ".vip"
+        ]
+    },
+    ".zippo": {},
+    ".zm": {},
+    ".zone": {
+        "1": [
+            ".one"
+        ]
+    },
+    ".zuerich": {},
+    ".zw": {}
+}

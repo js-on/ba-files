@@ -1,0 +1,12 @@
+beautifulsoup4==4.11.1
+colorama==0.4.4
+fuzzywuzzy==0.18.0
+langdetect==1.0.9
+language_tool_python==2.7.0
+nltk==3.7
+openpyxl==3.0.9
+requests==2.27.1
+roman==3.3
+textblob==0.17.1
+textblob_de==0.4.3
+urllib3==1.26.8

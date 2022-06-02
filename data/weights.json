@@ -1,0 +1,10 @@
+{
+  "denylist": 5,
+  "authenticity": 5,
+  "external": 5,
+  "questions": 5,
+  "coins": 10,
+  "faked_sender": 1,
+  "buzzwords": 1,
+  "greeting": 2
+}
